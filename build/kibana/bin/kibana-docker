@@ -45,6 +45,9 @@ kibana_vars=(
     xpack.security.sessionTimeout
     xpack.security.cookieName
     xpack.security.secureCookies
+    xpack.monitoring.elasticsearch.url
+    xpack.monitoring.elasticsearch.username
+    xpack.monitoring.elasticsearch.password
 )
 
 longopts=''
